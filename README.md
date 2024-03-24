@@ -28,8 +28,9 @@ This code checks if the `answer` matches the secret word "secret". If it does, `
 
 Ternary operations are handy for short decisions, but they can get confusing if you nest them (put one inside another) too much.  So keep them simple and clear, and your code will be easier to read for you and others.  
 
+### Lets look at more examples:
 
-**Movie Rating:**
+1. **Movie Rating:**
 
 Imagine you're coding a movie recommendation app. You want to display a message based on the viewer's age:
 
