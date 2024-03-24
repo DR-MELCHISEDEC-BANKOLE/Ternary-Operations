@@ -84,6 +84,7 @@ dressCode = hour < 18 ? "Dress casual" : "Dressy attire";
 Remember, these are just a few examples. Ternary operations can be used for any short decision you need to make in your code!
 
 
+
 ## Part 2 (Practice and understand part 1 before proceeding)
 
 **Ternary Operator Breakdown:**
