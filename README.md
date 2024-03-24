@@ -2,6 +2,12 @@
 
 Imagine you're playing a game and you need to decide what reward to give a player based on their score.  Ternary operations are a shortcut way to write these decisions in code, kind of like an "if-else" statement on steroids.
 
+Here's the syntax:
+
+```
+condition ? expression_if_true : expression_if_false
+```
+
 Here's how it works:
 
 * You write a **condition** that checks something, like if the player's score is high enough.
@@ -78,6 +84,8 @@ dressCode = hour < 18 ? "Dress casual" : "Dressy attire";
 Remember, these are just a few examples. Ternary operations can be used for any short decision you need to make in your code!
 
 
+## Part 2
+
 **Ternary Operator Breakdown:**
 
 The ternary operator, also known as the conditional operator, acts as a shortcut for writing if-else statements in a single line. Here's the syntax:
@@ -93,7 +101,7 @@ condition ? expression_if_true : expression_if_false
 3. **expression_if_true**: This expression is executed if the `condition` is true.
 4. **:**: The colon separates the true expression from the false expression.
 5. **expression_if_false**: This expression is executed if the `condition` is false.
-
+   
 **Examples:**
 
 1. **Age check:**
